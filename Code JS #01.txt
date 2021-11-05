@@ -1,0 +1,51 @@
+// alert("Hello World");
+// document.write("HELLO WORLD");
+// console.log("HELLO WORLD");
+
+// var b = 2;
+// var c = "3";
+// var a = b + c;
+// alert(a);
+
+// var b = 2;
+// var c = "wasay";
+// var a = b + c;
+// alert(a);
+
+// var b = 2;
+// var c = "3";
+// var a = b * c;
+// alert(a);
+
+// var b = 2;
+// var c = "wasay";
+// var a = b * c;
+// alert(a);
+
+// var a = 4;
+// var b = 8;
+// var c = 6;
+// var d=55;
+// var e = a + d - b + (a+b) - (c-b);
+//     //    4 + 55 - 8 +  12  -   -2
+// alert(e);
+
+// var a = 12;
+// var b = 2;
+// var c= a/b;
+// alert(c);
+
+// var a = 11;
+// var b = 2;
+// var c= a%b;
+// alert(c);
+
+// var a = 11;
+// var b = 2;
+// var c= b-a;
+// alert(c);
+
+// var a = 12;
+// var b = ++a + --a + a++ - a + a++ - --a;
+//         // 13  +  12 + 12 - 13 + 13  -  13
+// alert(b);
